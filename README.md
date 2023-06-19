@@ -1,5 +1,6 @@
 # Pathfinder-Pro
 Pathfinder Pro is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
+
 Youtube link for demo : https://www.youtube.com/watch?v=8kp3ayN-EDw
 
 ## Features
