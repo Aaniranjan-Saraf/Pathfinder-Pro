@@ -2,15 +2,15 @@
 Pathfinding Pioneer is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
 
 ## Features
-    -Maze Creation: Quickly generate unique mazes with customizable width and height.
-    -Enigmatic Obstacles: Mazes are adorned with intriguing black box obstacles, adding a captivating element to the puzzle-solving experience.
-    -A Algorithm*: Utilizes a brilliant A* algorithm, acting as a virtual GPS system, to find the most efficient path through the maze. It cleverly avoids obstacles and employs the Manhattan distance heuristic.
-    -Dijkstra's Algorithm: Offers a comprehensive exploration by considering all possible paths and weighing distances to identify the optimal solution.
-    -Captivating Visuals: The program displays the maze as a vibrant virtual world, with each cell artfully depicted as a rectangle. The starting point is highlighted in green, the goal point in red, and the black box obstacles are easily distinguishable.
-    -Visual Traces: As you navigate through the maze, the program leaves visual traces of your exploration, highlighting cells in captivating colors to reveal your progress.
-    -Optimal Route: When the shortest path is found, the program draws it in a majestic shade of blue, creating a mesmerizing visual representation of your triumph.
-    -Immersive Experience: Engage in a world of maze exploration where obstacles present mysterious challenges and intelligent algorithms provide clarity and efficiency.
-    -Unlimited Possibilities: Delve into the depths of the maze, unravel its secrets, and take pride in completing the adventure.
+    Maze Creation: Quickly generate unique mazes with customizable width and height.
+    - Enigmatic Obstacles: Mazes are adorned with intriguing black box obstacles, adding a captivating element to the puzzle-solving experience.
+    - A Algorithm*: Utilizes a brilliant A* algorithm, acting as a virtual GPS system, to find the most efficient path through the maze. It cleverly avoids obstacles and employs the Manhattan distance heuristic.
+    - Dijkstra's Algorithm: Offers a comprehensive exploration by considering all possible paths and weighing distances to identify the optimal solution.
+    - Captivating Visuals: The program displays the maze as a vibrant virtual world, with each cell artfully depicted as a rectangle. The starting point is highlighted in green, the goal point in red, and the black box obstacles are easily distinguishable.
+    - Visual Traces: As you navigate through the maze, the program leaves visual traces of your exploration, highlighting cells in captivating colors to reveal your progress.
+    - Optimal Route: When the shortest path is found, the program draws it in a majestic shade of blue, creating a mesmerizing visual representation of your triumph.
+    - Immersive Experience: Engage in a world of maze exploration where obstacles present mysterious challenges and intelligent algorithms provide clarity and efficiency.
+    - Unlimited Possibilities: Delve into the depths of the maze, unravel its secrets, and take pride in completing the adventure.
 
 ## Usage
 
@@ -22,13 +22,12 @@ Pathfinding Pioneer is an advanced program designed to expertly navigate mazes. 
 
 ## Requirements
 
-    Pathfinding Pioneer Program
+Pathfinding Pioneer Program
 
 ## License
--This program is licensed under the MIT License.
+    - This program is licensed under the MIT License.
 
 ## Acknowledgements
-
-    -This program was inspired by the fascination with mazes and the joy of solving them.
+    - This program was inspired by the fascination with mazes and the joy of solving them.
 
 Feel free to clone the repository and contribute by adding suitable updates to enhance the pathfinding capabilities.
