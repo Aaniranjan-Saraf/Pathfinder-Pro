@@ -2,6 +2,7 @@
 Pathfinding Pioneer is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
 
 ## Features
+    
     Maze Creation: Quickly generate unique mazes with customizable width and height.
     - Enigmatic Obstacles: Mazes are adorned with intriguing black box obstacles, adding a captivating element to the puzzle-solving experience.
     - A Algorithm*: Utilizes a brilliant A* algorithm, acting as a virtual GPS system, to find the most efficient path through the maze. It cleverly avoids obstacles and employs the Manhattan distance heuristic.
@@ -25,9 +26,11 @@ Pathfinding Pioneer is an advanced program designed to expertly navigate mazes. 
 Pathfinding Pioneer Program
 
 ## License
+
     - This program is licensed under the MIT License.
 
 ## Acknowledgements
+
     - This program was inspired by the fascination with mazes and the joy of solving them.
 
 Feel free to clone the repository and contribute by adding suitable updates to enhance the pathfinding capabilities.
