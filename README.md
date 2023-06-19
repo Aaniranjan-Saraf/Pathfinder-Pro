@@ -1,5 +1,5 @@
 # Pathfinder-Pro
-Pathfiner Pro is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
+Pathfinder Pro is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
 
 ## Features
 
@@ -23,7 +23,7 @@ Pathfiner Pro is an advanced program designed to expertly navigate mazes. It uti
 
 ## Requirements
 
-Pathfiner Pro Program
+Pathfinder Pro Program
 
 ## License
 
@@ -33,4 +33,4 @@ Pathfiner Pro Program
 
    - This program was inspired by the fascination with mazes and the joy of solving them.
 
-Feel free to clone the repository and contribute by adding suitable updates to enhance the Pathfiner capabilities.
+Feel free to clone the repository and contribute by adding suitable updates to enhance the Pathfinder capabilities.
