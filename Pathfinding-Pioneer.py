@@ -100,7 +100,7 @@ def dijkstra(maze, start, goal):
 
 # Create the GUI window
 window = tk.Tk()
-window.title("Maze Solver")
+window.title("Pathfinder Pro")
 
 # Global variables
 maze = []
@@ -368,7 +368,7 @@ def canvas_click(event):
         goal_node = None
 
 # Create the GUI window
-window.title("Maze Solver")
+window.title("Pathfinder Pro")
 window.configure(bg='white')
 
 # Set the font
