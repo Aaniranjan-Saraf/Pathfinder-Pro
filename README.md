@@ -1,5 +1,5 @@
-# Pathfinding-Pioneer
-Pathfinding Pioneer is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
+# Pathfinding-Pro
+Pathfinding Pro is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
 
 ## Features
 
@@ -23,7 +23,7 @@ Pathfinding Pioneer is an advanced program designed to expertly navigate mazes. 
 
 ## Requirements
 
-Pathfinding Pioneer Program
+Pathfinding Pro Program
 
 ## License
 
