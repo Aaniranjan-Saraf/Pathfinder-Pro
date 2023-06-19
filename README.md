@@ -1,4 +1,4 @@
-# Pathfiner-Pro
+# Pathfinder-Pro
 Pathfiner Pro is an advanced program designed to expertly navigate mazes. It utilizes state-of-the-art algorithms and intelligent exploration techniques to solve complex maze puzzles with exceptional speed and accuracy.
 
 ## Features
