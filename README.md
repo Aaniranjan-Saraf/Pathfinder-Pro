@@ -21,9 +21,6 @@ Pathfinder Pro is an advanced program designed to expertly navigate mazes. It ut
    - Enjoy the immersive experience of visually exploring the maze, with highlighted cells showcasing your progress.
    - Witness the optimal route being drawn in a majestic blue color, signifying your triumph.
 
-## Requirements
-
-Pathfinder Pro Program
 
 ## License
 
