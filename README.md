@@ -30,6 +30,6 @@ Youtube link for demo : https://www.youtube.com/watch?v=8kp3ayN-EDw
 
 ## Acknowledgements
 
-   - This program was inspired by the fascination with mazes and the joy of solving them.
+   - This program was inspired by the fascination with mazes and the joy of solving them!
 
 Feel free to clone the repository and contribute by adding suitable updates to enhance the Pathfinder capabilities.
