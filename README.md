@@ -3,6 +3,9 @@ Pathfinder Pro is an advanced program designed to expertly navigate mazes. It ut
 
 Youtube link for demo : https://www.youtube.com/watch?v=8kp3ayN-EDw
 
+![image](https://github.com/Aaniranjan-Saraf/Pathfinder-Pro/assets/97801096/fc469ec3-a074-4e72-9647-45c066ee563b)
+
+
 ## Features
 
    - **Maze Creation**: Quickly generate unique mazes with customizable width and height.
